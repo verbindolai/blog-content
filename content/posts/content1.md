@@ -8,6 +8,6 @@ draft: false
 
 This is **bold** text, and this is *emphasized* text.
 
-Hey :)
+Hey, Test :)
 
 Visit the [Hugo](https://gohugo.io) website!
